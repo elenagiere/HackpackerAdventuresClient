@@ -1,0 +1,35 @@
+![](chile/bikeboarding_opt.jpg "San Pedro de Atacama") As we crossed the border and made our way towards San Pedro de Atacama in Chile, we realized why they call the Atacama Desert one of the driest places in the world.  In fact, the Atacama Desert is supposedly the only true desert to receive less precipitation than polar deserts.  Fun fact!
+
+Chile is the most expensive country in Latin America by a long shot.  But Chile was also nicer in many aspects such as drinkable water from the tap, toilet paper availability in public restrooms, and more places that take credit cards in lieu of cash only places. As far as activities go in San Pedro de Atacama, we realized that many of the tour options were close by and could be done without ![](chile/sandboarding_opt.jpg "Sandboarding")a tour guide.  You just needed to rent a bicycle for a few hours and download some offline maps and you were good to go!  We started by doing the famous Valle de la Luna.  This was a valley that supposedly looked and felt like you were on the moon.  We already got a taste for these “moon rocks” on our off-road journey from Bolivia to Chile, but it was still fun to hike some dunes and get some exercise.
+
+The real fun for us was the next day when we rented bikes and a snowboard to try our luck at sandboarding down some huge dunes.  We didn’t get to ski or snowboard this winter due to our travels.  So, it felt good to get on a board and get some turns in...even if it was some pretty warm and heavy snow.  ;)  
+
+![](chile/santiago_opt.jpg "Santiago Graffiti")The next day, we flew to Santiago, the capital of this tall and slender country.  Here, we met up with Luke’s parents to explore the surrounding regions for a week.  We started with a long walking tour in the downtown Santiago area.  This was a great way to learn about the history as well as the current events of what was happening in Chile.  Santiago was a unique city because there was graffiti everywhere.  And I mean everywhere.  Even on famous statues and political buildings.  The people of Chile were tired and fed up by corrupt politicians and police officers and decided it was finally time to take a stand against them through protests in various cities throughout Chile.  This definitely gave the city an eerie, somewhat dangerous feeling, but everyone assured us that you just need to avoid the heavily protested areas and you’ll be fine.  After all, this is a protest against politicians, not tourists.
+
+![](chile/hostetters_opt.jpg "The Hostetters")Later, we escaped the city and went into the countryside for a night.  We went to a place called Cascada de las Animas in Cajón Del Maipo.  This was a nice little retreat from the city where you could swim, hike to a waterfall, and stay in a cozy cabin while falling asleep to nature.  They even have rafting tours, zip lines, and various other outdoor activities to suit anyone’s itinerary.
+
+From there, we connected a few taxis together to make our way to the beautiful coastal city of Valparaiso.  Known as “Little San Francisco”, this city reminded us of our colorful, fun, northern California ![](chile/valpo_opt.jpg "Valparaiso")city.  We got to do another walking tour learning about the history of Valparaiso with a very Valpo tour guide.  The walking tours in Chile were definitely some of the best of any country in Latin America.  Maybe we got lucky, but we were very impressed by their knowledge and ability to captivate an audience.  We learned about the history, the colorful streets, and many funiculars throughout the city.  The city has 45 hills making funiculars an almost necessary mode of transportation with all the ups and downs.
+
+A neighbor to Valparaiso, there is the much more upscale Vina Del Mar.  A very nice place to enjoy the beach.  Valparaiso and Vina Del Mar reminded me a lot of comparing Santa Cruz, California to its more ritzy neighbor of Monterey, California.  Vina Del Mar had fancier ![](chile/mar_opt.jpg "Vina del Mar")restaurants and less graffiti.  It had newer and cleaner apartment complexes and fancier coffees.  But it also lacked a certain homey charm that Valparaiso lured you in with.
+
+While we had a phenomenal week catching up with Luke’s parents, it was time to continue our journey and fly south to Patagonia.  At 3 hours of flight time, we were shocked at how much further south Patagonia is compared to Santiago.  Fun fact: Patagonia is further south than the south island of New Zealand.  It is down there.
+![](chile/fitzRoy_opt.jpg "Fitz Roy")
+
+We started our time in El Chalten, Argentina.  El Chalten is a small, hippie town that is definitely set up for tourists.  It is the town that marks the trailheads for some of the best hiking and backpacking in all of Patagonia.  It marks the start of the famous Fitz Roy trek to see a view of the logo for the clothing brand “Patagonia.”  We decided to just do day hikes here and had some phenomenal ones.  We did the Fitz Roy hike as well as the Cerro Torre and Laguna Torre hikes and got to see some spectacular icebergs and crazy blue waters all while marvelling at stunning peaks.  We had a terrific time in this town doing many great hikes and wished that we could have stayed longer.
+![](chile/glacier_opt.jpg "Perito Moreno Glacier")
+Next, we spent the day at Perito Moreno Glacier which was (in my opinion) even more spectacular than the glacier at Kenai Fjords National Park in Alaska.  After seeing glaciers calving, it made me realize that we saw some of the most powerful geological features on this trip in Latin America.  From the exploding lava in Guatemala to the powerful glacial ice in Argentina, we truly got to see fire and ice at its highest level on this trip.  We feel so blessed. 
+
+Well, unfortunately due to COVID-19, we had to end our journey on that note.  We feel so incredibly blessed to get to do and see so much for the last 6 months.  And to get to go all the way to the southernmost part of the Western Hemisphere was quite special.  
+
+And don’t worry, we will definitely have more trips to do and write about once COVID-19 is over!  But we still feel so grateful to get to travel for 6 whole months and we have learned a lot about ourselves and our relationship during this time.  We highly recommend everyone to take a longer “travel” trip versus a “vacation” trip at some point in their lives.  
+
+![](chile/patagonia_opt.jpg "Cerro Torre")It will help you appreciate the small things such as access to Amazon Prime or having a consistent schedule or maintaining a community of friends.  These are all things that we should feel thankful for every single day.  God bless, take care, and talk to you all later! <3 
+
+#### Money Saving Tips Used This Trip:
+
+* Set price alerts for flights.  They can be very cheap within Chile.
+* In Atacama, be sure to rent a bike for some Do-It-Yourself tours.  You don’t need a tour guide for most of them.
+* Invite your parents along for the journey.  They may help pay for some Airbnbs or meals.  Thanks again!
+* Sharing a taxi/Uber between 4 people instead of 2 helps cut down on per-person expenses.
+
+

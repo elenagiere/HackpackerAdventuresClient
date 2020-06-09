@@ -1,0 +1,54 @@
+{
+  "name": "client",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "https://elenagiere.github.io/HackpackerAdventures/",
+  "engines": {
+    "node": "10.x"
+  },
+  "dependencies": {
+    "disqus-react": "^1.0.6",
+    "gh-pages": "^3.0.0",
+    "node-sass": "^4.11.0",
+    "prop-types": "^15.7.2",
+    "react": "^16.9.0",
+    "react-animated-ellipsis": "^0.3.0",
+    "react-dom": "^16.9.0",
+    "react-facebook": "^8.0.4",
+    "react-icons": "^3.6.1",
+    "react-iframe": "^1.8.0",
+    "react-markdown": "^4.1.0",
+    "react-responsive-modal": "^3.6.0",
+    "react-router": "^4.3.1",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "^3.4.1",
+    "react-youtube": "^7.9.0",
+    "sendinblue-api": "^1.0.8"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "predeploy": "yarn run build",
+    "deploy": "gh-pages -d build"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "gulp-responsive": "^2.14.0"
+  }
+}
