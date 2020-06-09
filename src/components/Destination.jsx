@@ -3,7 +3,7 @@ import Banner from './Banner.jsx';
 import { publicImagePath } from '../Constants.js';
 import YouTube from 'react-youtube';
 import ReactMarkdown from 'react-markdown';
-import Disqus from 'disqus-react';
+// import Disqus from 'disqus-react';
 
 class Destination extends React.Component {
 
