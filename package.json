@@ -2,7 +2,7 @@
   "name": "client",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://elenagiere.github.io/HackpackerAdventuresClient/",
+  "homepage": "https://elenagiere.github.io/",
   "engines": {
     "node": "10.x"
   },
