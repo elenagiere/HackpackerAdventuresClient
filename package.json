@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "gh-pages": "^3.0.0",
-    "node-sass": "^4.11.0",
+    "node-sass": "^7.0.0",
     "prop-types": "^15.7.2",
     "react": "^16.9.0",
     "react-animated-ellipsis": "^0.3.0",
